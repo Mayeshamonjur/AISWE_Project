@@ -1,1 +1,1 @@
-This is the draft code for scraping the first best problem from the Algorithm section of Hackerrank. It is not yet automated for all problems.
+This is the draft code for scraping the first best problem from the Algorithm section of Hackerrank(subject to automation for all). We are currently working on finding grouth truth along with this. 
