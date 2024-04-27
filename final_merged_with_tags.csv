@@ -1,4 +1,4 @@
-input,output,BEST,GROUND,Tags
+input,output,BEST,LEAST,Tags
 "6
 a b c aa d b
 1 2 3 4 5 6
